@@ -25,3 +25,4 @@ https://www.saucedemo.com
 
 ## Documentation
 - [Exploratory Test Report](Documentation/SauceDemo%20Exploratory%20Test%20Report.pdf)
+- Test Cases & Bug Report
