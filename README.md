@@ -25,4 +25,4 @@ https://www.saucedemo.com
 
 ## Documentation
 - [Exploratory Test Report](Documentation/SauceDemo%20Exploratory%20Test%20Report.pdf)
-- Test Cases & Bug Report
+- [Test Cases & Bug Report](https://docs.google.com/spreadsheets/d/10lO87UUzyMStQTTG70zPjYMeKnqvRscCUowUnHv3GQU/edit?usp=drivesdk)
