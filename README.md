@@ -22,3 +22,6 @@ https://www.saucedemo.com
 - Manual Testing (Test Cases, Bug Reports, Exploratory Report)
 - Automation Testing (In Progress)
 - Screenshots & Screenrecords (Test Evidence)
+
+## Documentation
+- [Exploratory Test Report](Documentation/SauceDemo Exploratory Test Report.pdf)
