@@ -24,4 +24,4 @@ https://www.saucedemo.com
 - Screenshots & Screenrecords (Test Evidence)
 
 ## Documentation
-- [Exploratory Test Report](Documentation/SauceDemo Exploratory Test Report.pdf)
+- [SauceDemo Exploratory Test Report](Documentation/SauceDemo Exploratory Test Report.pdf)
