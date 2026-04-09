@@ -29,8 +29,10 @@ public class Login_e2e {
 	public void Login() {
 		login = new Login_Page(driver);
 		login.userLogin(Constants.USERNAME,Constants.PASSWORD);
-		// Products
-		login.productsSortFilter();
+		// Products page
+		//login.productsSortFilter();
+		login.addToCart();
+		login.removeFromCart();
 	}
 
 }

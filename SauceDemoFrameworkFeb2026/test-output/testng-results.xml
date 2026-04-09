@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-04-03T09:57:47 WAT" name="Default suite" finished-at="2026-04-03T09:58:16 WAT" duration-ms="28365">
+  <suite started-at="2026-04-09T19:13:50 WAT" name="Default suite" finished-at="2026-04-09T19:13:58 WAT" duration-ms="8214">
     <groups>
     </groups>
-    <test started-at="2026-04-03T09:57:47 WAT" name="Default test" finished-at="2026-04-03T09:58:16 WAT" duration-ms="28365">
+    <test started-at="2026-04-09T19:13:50 WAT" name="Default test" finished-at="2026-04-09T19:13:58 WAT" duration-ms="8214">
       <class name="e2e.Login_e2e">
-        <test-method is-config="true" signature="setup()[pri:0, instance:e2e.Login_e2e@593aaf41]" started-at="2026-04-03T09:57:48 WAT" name="setup" finished-at="2026-04-03T09:58:15 WAT" duration-ms="27518" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:e2e.Login_e2e@593aaf41]" started-at="2026-04-09T19:13:50 WAT" name="setup" finished-at="2026-04-09T19:13:57 WAT" duration-ms="6929" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Login()[pri:0, instance:e2e.Login_e2e@593aaf41]" started-at="2026-04-03T09:58:15 WAT" name="Login" finished-at="2026-04-03T09:58:16 WAT" duration-ms="717" status="PASS">
+        <test-method signature="Login()[pri:0, instance:e2e.Login_e2e@593aaf41]" started-at="2026-04-09T19:13:57 WAT" name="Login" finished-at="2026-04-09T19:13:58 WAT" duration-ms="1221" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:e2e.Login_e2e@593aaf41]" started-at="2026-04-03T09:58:16 WAT" name="teardown" finished-at="2026-04-03T09:58:16 WAT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:e2e.Login_e2e@593aaf41]" started-at="2026-04-09T19:13:58 WAT" name="teardown" finished-at="2026-04-09T19:13:58 WAT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
